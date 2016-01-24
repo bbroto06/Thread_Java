@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class MainClass {
-	public static int threadCount = 4;
+	public static int threadCount = 8;
 	public static int stop = 800000;
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
